@@ -38,7 +38,7 @@ function Footer() {
         </div>
         <div>
             <hr />
-            <p className="py-5 text-sm text-center">Copyright © 2024 GreatStack - All Right Reserved.</p>
+            <p className="py-5 text-sm text-center">Copyright © 2024 rifatDeveloper - All Right Reserved.</p>
         </div>
     </div>
   )

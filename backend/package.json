@@ -10,7 +10,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "server": "nodemon server.js",
-    "postinstall": "npm rebuild && npm install"
+    
+     "vercel-build": "npm install"
     
   },
   "dependencies": {
